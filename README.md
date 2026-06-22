@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi there, I'm Eka! 👋
 
-<!--
-**ekadwi5283/ekadwi5283** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A Systems Information student who believes in balancing lectures, projects, and self-growth. I'm constantly learning—whether it's a new tool, a new way to think, or a new perspective on how systems work. Currently exploring the intersection of data, process, and people.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 About Me
+- 🎓 **Education:** Student at Global Institute majoring in Informartion System.
+- 🌱 **Currently Learning:** Database Management & SQL
+
+### 🛠️ Skills & Tools
+- **Languages:** HTML, CSS, PHP, SQL.
+- **Tools:** VS Code, Git, Microsoft Office, My SQL
+- **Soft Skills:** Time Management, Adaptability, Attention to Detail
